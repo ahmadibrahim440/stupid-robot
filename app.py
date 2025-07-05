@@ -1,4 +1,5 @@
-import streamlit as st import pyttsx3
+import streamlit as st 
+import pyttsx3
 
 إعداد الصوت (اختياري - غير مدعوم في Streamlit أونلاين)
 
